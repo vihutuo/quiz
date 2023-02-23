@@ -1,0 +1,30 @@
+1|Which of the following is used in star topology?|Hub|Gateway|Both|None of the above|1
+1|Which of the following is confined to a building or a smaller location?|LAN|WAN|MAN|PAN|1
+1|How many addresses are there in the classful addressing?|2|3|4|5|4
+1|Which of the following addresses is correct?|256.1.1.2|245.012.6.7|255.0.0.0|123.2.1|3
+1|Find class of the IP address 132.12.15.1|Class A|Class B|Class C|Class D|2
+1|Which of the following are types of Analog Modulation?|AM|FM|PM|All of the above|4
+1|In which layer of the TCP/IP protocol suite routing is carried out?|Application Layer|Physical Layer|Transport Layer|Network Layer|4
+1|Which method asks for a response body identical to that of GET request but without the response body?|POST|HEAD|PUT|TRACE|2
+2|Where was HTTP developed?|||||CERN
+1|In which layer of the TCP/IP protocol suite issues relating to medium are handled?|Data Link Layer|Physical Layer|Presentation Layer|Presentation Layer|2
+1|In which layer of the TCP/IP protocol suite tasks like compression and encryption are performed?|Data Link Layer|Physical Layer|Presentation Layer|Session Layer|3
+1|Which protocol stores mail to the the mail server?|POP3|IMAP|SMTP|All of the above|3
+1|The message signal which is to be modulated is called the ____________.|baseband signal|modulated signal|carrier signal|message signal|1
+1|In which year was HTTP developed?|1989|1990|1990|1992|1
+1|The first version of HTTP was |V1|V1.1|V0.9|V0.1|3
+1|Which port does HTTP generally use?|110|25|21|80|4
+1|Which of the following is NOT a method of HTTP?|GET|POST|INSERT|DELETE|3
+1|In which year was FTP developed?|1978|1971|1975|1973|2
+2|What is the full form of IMAP?|||||Internet Message Access Protocol
+2|What is the full form of POP?|||||Post Office Protocol
+2|What is the full form of HTTP?|||||Hyper Text Transfer Protocol
+2|What is the full form of OSI?|||||Open System Interconnect
+2|What is the full form of TCP?|||||Transmission Control Protocol
+2|Who invented HTTP?|||||Tim Berners Lee
+1|Which of the following is a valid message in even parity?|110111|111110|111101|1111|4
+1|1st Generation mobile systems were introduced in the year ?|1977|1978|1979|1980|3
+1|SMS was first started in ____ |0G|1G|2G|3G|3
+1|Which network utility can be used to check information of a particular domain?|Ping|Whois|Tracert|NS lookup|2
+1|Which network utility can be used to check whether a host can be reached?|Ping|IP Config|Whois|NS lookup|1
+1|IEEE-802.11 is popularly known as ____|WWW|HTTP|E-mail|Wifi|4
